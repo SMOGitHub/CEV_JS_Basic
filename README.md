@@ -1,2 +1,2 @@
 # CEV_JS_Basic
-Basic JavaScript exercises from classes with Gustavo Guanabara - Curso em Vídeo
+Exercícios do curso de JavaScript Básico do canal Curso em Vídeo com o professor Gustavo Guanabara.
